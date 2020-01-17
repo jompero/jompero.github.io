@@ -14,47 +14,45 @@
 	
 	<project name="Untitled">
 		<image>untitled6.jpg
-				<title>Untitled #01, 2016</title>
-				<description>&lt;br&gt;
-				</description>
+			<title>Untitled #01, 2016</title>
+			<description>&lt;br&gt;
+			</description>
 		</image>
 		<image>untitled1.jpg
-				<title>Untitled #01, 2017</title>
-				<description>&lt;br&gt;
-				</description>
+			<title>Untitled #01, 2017</title>
+			<description>&lt;br&gt;
+			</description>
 		</image>
 		<image>untitled3.jpg
-				<title>Untitled #01, 2016</title>
-				<description>&lt;br&gt;
-				</description>
+			<title>Untitled #01, 2016</title>
+			<description>&lt;br&gt;
+			</description>
 		</image>
-			<image>untitled4.jpg
-				<title>Untitled #01, 2014</title>
-				<description>&lt;br&gt;
-				</description>
+		<image>untitled4.jpg
+			<title>Untitled #01, 2014</title>
+			<description>&lt;br&gt;
+			</description>
 		</image>
-				<image>untitled5.jpg
+		<image>untitled5.jpg
+			<title>Untitled #01, 2017</title>
+			<description>&lt;br&gt;
+			</description>
+		</image>
+		<image>untitled6.jpg
+			<title>Untitled #01, 2017</title>
+			<description>&lt;br&gt;
+			</description>
+		</image>
+		<image>untitled7.jpg
 				<title>Untitled #01, 2017</title>
 				<description>&lt;br&gt;
 				</description>
 		</image>
-		</image>
-				<image>untitled6.jpg
+		<image>untitled8.jpg
 				<title>Untitled #01, 2017</title>
 				<description>&lt;br&gt;
 				</description>
 		</image>
-		</image>
-				<image>untitled7.jpg
-				<title>Untitled #01, 2017</title>
-				<description>&lt;br&gt;
-				</description>
-		</image>
-			</image>
-				<image>untitled8.jpg
-				<title>Untitled #01, 2017</title>
-				<description>&lt;br&gt;
-				</description>
 	</project>
 	
 	<project name="Memory Times">
