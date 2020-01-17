@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- 
+/' = '
+&lt;br&gt; = Rivinvaihto
+&lt;i&gt;TEKSTI&lt;/i&gt; = "TEKSTI" näytetään Italicinä.
+&lt;b&gt;TEKSTI&lt;/b&gt; = "TEKSTI" näytetään Boldina.
+&lt;a&gt; LINKKI &lt;/a&gt;
+-->
+
+<portfolio>
+	
+	<info>Jose Jompero (b.1992) is a photographer and a visual artist. He lives and works in Turku, Finland where he is currently studying fine art at the Arts Academy at Turku University of Applied Sciences. </info>
+	
+	<project name="Untitled">
+		<image>untitled6.jpg
+				<title>Untitled #01, 2016</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		<image>untitled1.jpg
+				<title>Untitled #01, 2017</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		<image>untitled3.jpg
+				<title>Untitled #01, 2016</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+			<image>untitled4.jpg
+				<title>Untitled #01, 2014</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+				<image>untitled5.jpg
+				<title>Untitled #01, 2017</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		</image>
+				<image>untitled6.jpg
+				<title>Untitled #01, 2017</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		</image>
+				<image>untitled7.jpg
+				<title>Untitled #01, 2017</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+			</image>
+				<image>untitled8.jpg
+				<title>Untitled #01, 2017</title>
+				<description>&lt;br&gt;
+				</description>
+	</project>
+	
+	<project name="Memory Times">
+		<image>1.jpg
+			<title>Untitled #01 (Unknown feedback), 2015</title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+		<image>2.jpg
+			<title>Untitled #02</title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+		<image>3__.jpg
+			<title>Untitled #03, 2015, Kira Björklund&lt;br&gt;Untitled #04, 2014, Jose Jompero</title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+		<image>4___.jpg
+			<title>Untitled #04, 2016, Kira Björklund&lt;br&gt;Untitled #05, 2016, Jose Jompero </title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+		<image>5__.jpg
+			<title>Untitled #06, 2017, Kira Björklund&lt;br&gt;Untitled #07, 2017, Jose Jompero</title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+		<image>7__.jpg
+			<title>Untitled #08, 2014, Jose Jompero&lt;br&gt;Untitled #09, 2017, Kira Björklund</title>
+			<description>&lt;br&gt;Memory Times is an ongoing project by Kira Björklund and Jose Jompero. &lt;br&gt;
+				It is a digitally published dialogue of photographs, texts, moving image and sound. &lt;br&gt;
+				The previous entry sets ignition, allowing an endless visual conversation. &lt;br&gt;
+				The entries are posted alternately by Kira and Jose.&lt;br&gt;&lt;br&gt;&lt;a href=http://justdownthestreet.tumblr.com/&gt;http://justdownthestreet.tumblr.com/&lt;/a&gt;</description>
+		</image>
+	</project>
+	
+	<project name="Attempt">
+		<image>1attempt.jpg
+				<title>Attempt #01, 2015, 65x82cm</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		<image>2attempt.jpg
+				<title>Attempt #02, 2015, 65x82cm</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+		<image>3attempt.jpg
+				<title>Attempt #03, 2015, 65x82cm</title>
+				<description>&lt;br&gt;
+				</description>
+		</image>
+	</project>
+</portfolio>

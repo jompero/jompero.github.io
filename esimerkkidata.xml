@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Esimerkki data kommenteilla -->
+
+<portfolio>
+	<project name="I"> <!-- Projektin aloitus. Anna projektin nimi lainausten väliin, miten  haluat sen listattavan menussa. -->
+		<image>remember.jpg	<!-- Valokuvan aloitus ja nimi tiedostopäättellä. Voi olla mikä tahansa perus kuvatiedosto. Laita kuva "images"- ja "thumbnails"-kansioihin. -->
+			<thumbnailX>50%</thumbnailX> <!-- Thumbnailin sijoitus x-akselilla. Voi olla "%", "px" tai "em". Suosittelen käyttämään "%". -->
+			<thumbnailY>50px</thumbnailY> <!-- Thumbnailin sijoitus y-akselilla. Voi olla "%", "px" tai "em". Suosittelen käyttämään "px". -->
+			<title>Remember</title> <!-- Valokuvan otsikko. -->
+			<description>&lt;br&gt;</description> <!-- 
+			Valokuvan teksti. Ei saa olla tyhjä, älä siis muuta jos et haluu kirjottaa tähän mitään.
+			MUISTA:
+			/' = '
+			&lt;br&gt; = Rivinvaihto
+			&lt;i&gt;TEKSTI&lt;/i&gt; = "TEKSTI" näytetään Italicinä.
+			&lt;b&gt;TEKSTI&lt;/b&gt; = "TEKSTI" näytetään Boldina.
+			-->
+		</image> <!-- Valokuvan lopetus. -->
+		<image>film_elokuu_16.jpg <!-- Uuden valokuvan aloitus. -->
+			<thumbnailX>20%</thumbnailX>
+			<thumbnailY>450px</thumbnailY>
+			<title>Surface</title>
+			<description>&lt;br&gt;</description>
+		</image>
+	</project> <!-- Projektin lopetus. -->
+	<project name="I"> <!-- Uuden projektin aloitus. -->
+		<image>remember2.jpg
+			<thumbnailX>50%</thumbnailX>
+			<thumbnailY>50px</thumbnailY>
+			<title>Remember2</title>
+			<description>&lt;br&gt;</description>
+		</image>
+	</project>
+</portfolio>
