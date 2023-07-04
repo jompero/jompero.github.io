@@ -150,7 +150,7 @@ function info() {
 	currentProject = null;
 	displayMenu();
 	
-	document.getElementById("email").innerHTML = 'info@josejompero.com';
+	document.getElementById("email").innerHTML = 'jose.jompero@gmail.com';
 	
 
 }
